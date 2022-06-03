@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.common {
+  width: 500px;
+  padding: 20px;
+}
+span {
+  font-size: 20;
+  font-weight: 500;
+}
+.normal span {
+  color: rebeccapurple;
+}
+.first-property span {
+  color: salmon;
+}
+.second-search span {
+  color: seagreen;
+}
+.third-and span {
+  color: steelblue;
+}
+.fourth-curry span {
+  color: yellowgreen;
+}
+.last-curry span {
+  color: tomato;
+}
